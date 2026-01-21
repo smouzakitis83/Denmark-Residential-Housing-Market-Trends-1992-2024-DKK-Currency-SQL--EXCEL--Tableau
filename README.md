@@ -5,12 +5,13 @@ To guide the analysis, I used AI to generate five practical questions that a sta
 
 This specific data was provided by Kaggle and can be viewed [here](https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024).
 
-Insights and recommendations are provided on the following key areas:
-* **Identifies top and low performing products** by analyzing profit and profit per unit sold to highlight true profitability beyond total sales.
-* **Quantifies revenue lost due to discounts** and evaluates how discounting impacts final sale price and overall margins.
-* **Calculates adjusted final sale prices** after discounts to provide a more accurate view of actual revenue earned.
-* **Analyzes profit by quantity sold** to determine how much profit is generated per sub-catagory.
-* **Evaluates revenue per sub-catagory** by dividing total sales by quantity sold, supporting data-driven pricing and inventory decisions.
+Scope Of Analysis:
+* Analysis of how residential housing prices have changed over time
+* Comparison of purchase prices across different house types over time.
+* Examination of annual inflation rates alongside nominal interest rates.
+* Review of average percentage differences between offer and purchase prices by house age.
+* Comparison of average housing prices across different house age groups.
+* Overview of regional housing markets using overall average price metrics.
 
 View the SQL script containing all calculated columns used in this analysis [here](https://github.com/smouzakitis83/Retail-Superstore-Performance-Analysis-/blob/main/SuperStore_Calc.SQL)
 
