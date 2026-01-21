@@ -3,7 +3,7 @@ The Danish residential housing market has experienced significant changes over t
 
 To guide the analysis, I used AI to generate five practical questions that a stakeholder or decision-maker would realistically ask when evaluating the housing market. Using SQL and Excel for data preparation and Tableau for visualization, I translated these questions into clear, concise, and easy-to-understand visuals designed to make insights accessible to both technical and non-technical audiences.
 
-This specific data was provided by Kaggle and can be viewed [here]([https://www.kaggle.com/datasets/roopacalistus/superstore](https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024)).
+This specific data was provided by Kaggle and can be viewed [here]([https://www.kaggle.com/datasets/roopacalistus/superstore](https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024).
 
 Insights and recommendations are provided on the following key areas:
 * **Identifies top and low performing products** by analyzing profit and profit per unit sold to highlight true profitability beyond total sales.
