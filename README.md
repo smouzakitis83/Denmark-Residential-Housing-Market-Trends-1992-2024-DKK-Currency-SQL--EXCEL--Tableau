@@ -1,0 +1,2 @@
+# Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau
+This case study analyzes Denmark’s residential housing market from 1992–2024 using over 1.5 million property sales records. SQL and Excel were used for data cleaning and analysis, and Tableau for visualization. The project explores pricing trends, purchase price, and the impact of home age, region, and house type.
