@@ -5,7 +5,7 @@ To guide the analysis, I used AI to generate five practical questions that a sta
 
 This specific data was provided by Kaggle and can be viewed [here](https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024).
 
-Scope Of Analysis:
+## Scope Of Analysis:
 * Analysis of how residential housing prices have changed over time
 * Comparison of purchase prices across different house types over time.
 * Examination of annual inflation rates alongside nominal interest rates.
@@ -13,7 +13,21 @@ Scope Of Analysis:
 * Comparison of average housing prices across different house age groups.
 * Overview of regional housing markets using overall average price metrics.
 
-View the SQL script containing all calculated columns used in this analysis [here](https://github.com/smouzakitis83/Retail-Superstore-Performance-Analysis-/blob/main/SuperStore_Calc.SQL)
+ ## SQL Methodology
+
+SQL was used to aggregate, clean, and prepare Denmark residential housing data for analysis and visualization.
+
+* **Data Aggregation:** Joined housing and pricing datasets using a LEFT JOIN on house_id, combining property attributes with purchase prices and economic indicators while filtering for complete records.
+
+* **Data Quality Checks:** Performed conditional aggregation to identify missing values across key fields, revealing minor gaps in geographic data.
+
+* **Data Cleaning:** Removed rows with missing location information and revalidated the dataset to ensure completeness.
+
+* **Data Standardization:** Reformatted dates, normalized text fields, and rounded numeric and percentage values for consistency and reporting clarity.
+
+* **Descriptive Statistics:** Calculated mean, median, and mode for key variables (rooms, square meters, price per square meter, and purchase price) using BigQuery-safe functions.
+
+View the SQL scripts that document the full data preparation and calculation process for this case study [here](https://github.com/smouzakitis83/Retail-Superstore-Performance-Analysis-/blob/main/SuperStore_Calc.SQL)
 
 # Visual Analysis and Key Findings
 
