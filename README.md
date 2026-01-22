@@ -34,10 +34,15 @@ View the SQL scripts that document the full data preparation and calculation pro
 
 ## Excel Analysis & Quality Checks
 A statistical Excel dashboard was developed with eight charts displaying average values for all integer columns. Additional summary statistics, including median and mode, were calculated for all numeric fields to support data validation and trend analysis.
-The cleaned Excel dataset used for analysis and validation can be viewed [here].
+The cleaned Excel dataset used for analysis and validation can be viewed [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/DK_Housing_C_C_Clean.xlsx).
 # Visual Analysis and Key Findings
 
-This visualization shows shipping cost differences by shipping class across all four regions, with Standard Class being the most costly.
+This Tableau visualization combines line and bar charts to illustrate changes in residential housing prices, house types, annual inflation, nominal interest rates, house age averages, and the percentage change between offer and purchase over time. Interactive filters for house type and region allow users to dynamically explore trends and compare market behavior across different segments.
+<img width="1594" height="901" alt="Screenshot 2026-01-22 112528" src="https://github.com/user-attachments/assets/1589fbb8-c99b-4ad8-b6b0-4ed86aaa37fb" />
+
+<img width="1650" height="956" alt="Screenshot 2026-01-22 112439" src="https://github.com/user-attachments/assets/424afb14-ec48-42a3-a167-b154b4443343" />
+
+<img width="1630" height="148" alt="Screenshot 2026-01-22 112411" src="https://github.com/user-attachments/assets/23d9a04f-57e4-438c-8b39-5a23847bc432" />
 
 <img width="674" height="484" alt="Screenshot 2025-12-19 120244" src="https://github.com/user-attachments/assets/468b37ea-e716-4bd7-8335-bd2bdd9a85a2" />
 
