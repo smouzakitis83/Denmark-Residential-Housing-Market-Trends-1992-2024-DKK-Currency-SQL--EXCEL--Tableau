@@ -30,8 +30,11 @@ SQL was used to aggregate, clean, and prepare Denmark residential housing data f
 
 * **Descriptive Statistics:** Calculated mean, median, and mode for key variables (rooms, square meters, price per square meter, and purchase price) using BigQuery-safe functions.
 
-View the SQL scripts that document the full data preparation and calculation process for this case study [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/SQL%20QUERIES%20FOR%20DK_HOUSING.SQL)
+View the SQL scripts that document the full data preparation and calculation process for this case study [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/SQL%20QUERIES%20FOR%20DK_HOUSING.SQL).
 
+## Excel Analysis & Quality Checks
+A statistical Excel dashboard was developed with eight charts displaying average values for all integer columns. Additional summary statistics, including median and mode, were calculated for all numeric fields to support data validation and trend analysis.
+The cleaned Excel dataset used for analysis and validation can be viewed [here].
 # Visual Analysis and Key Findings
 
 This visualization shows shipping cost differences by shipping class across all four regions, with Standard Class being the most costly.
