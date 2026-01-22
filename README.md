@@ -30,7 +30,7 @@ SQL was used to aggregate, clean, and prepare Denmark residential housing data f
 
 * **Descriptive Statistics:** Calculated mean, median, and mode for key variables (rooms, square meters, price per square meter, and purchase price) using BigQuery-safe functions.
 
-View the SQL scripts that document the full data preparation and calculation process for this case study [here](https://github.com/smouzakitis83/Retail-Superstore-Performance-Analysis-/blob/main/SuperStore_Calc.SQL)
+View the SQL scripts that document the full data preparation and calculation process for this case study [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/SQL%20QUERIES%20FOR%20DK_HOUSING.SQL)
 
 # Visual Analysis and Key Findings
 
