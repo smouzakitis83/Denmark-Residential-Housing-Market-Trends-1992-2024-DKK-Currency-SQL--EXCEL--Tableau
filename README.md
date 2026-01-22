@@ -37,7 +37,8 @@ A statistical Excel dashboard was developed with eight charts displaying average
 The cleaned Excel dataset used for analysis and validation can be viewed [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/DK_Housing_C_C_Clean.xlsx).
 # Visual Analysis and Key Findings
 
-This Tableau visualization combines line and bar charts to illustrate changes in residential housing prices, house types, annual inflation, nominal interest rates, house age averages, and the percentage change between offer and purchase over time. Interactive filters for house type and region allow users to dynamically explore trends and compare market behavior across different segments.
+This Tableau visualization combines line and bar charts to illustrate changes in residential housing prices, house types, annual inflation, nominal interest rates, house age averages, and the percentage change between offer and purchase over time. Interactive filters for house type and region allow users to dynamically explore trends and compare market behavior across different segments. View and explore this interactive Tableau visualization [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/DenmarkResidentialHousingMarketTrends19922024DKKCurrency/Dashboard1)
+
 <img width="1594" height="901" alt="Screenshot 2026-01-22 112528" src="https://github.com/user-attachments/assets/1589fbb8-c99b-4ad8-b6b0-4ed86aaa37fb" />
 
 <img width="1650" height="956" alt="Screenshot 2026-01-22 112439" src="https://github.com/user-attachments/assets/424afb14-ec48-42a3-a167-b154b4443343" />
