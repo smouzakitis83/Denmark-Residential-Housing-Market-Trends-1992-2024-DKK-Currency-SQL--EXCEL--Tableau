@@ -32,32 +32,19 @@ SQL was used to aggregate, clean, and prepare Denmark residential housing data f
 
 View the SQL scripts that document the full data preparation and calculation process for this case study [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/SQL%20QUERIES%20FOR%20DK_HOUSING.SQL).
 
-## Excel Analysis & Quality Checks
-A statistical Excel dashboard was developed with eight charts displaying average values for all integer columns. Additional summary statistics, including median and mode, were calculated for all numeric fields to support data validation and trend analysis.
-The cleaned Excel dataset used for analysis and validation can be viewed [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/DK_Housing_C_C_Clean.xlsx).
-# Visual Analysis and Key Findings
+## Tableau Visual Analysis
 
 This Tableau visualization combines line and bar charts to illustrate changes in residential housing prices, house types, annual inflation, nominal interest rates, house age averages, and the percentage change between offer and purchase over time. Interactive filters for house type and region allow users to dynamically explore trends and compare market behavior across different segments. View and explore this interactive Tableau visualization [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/DenmarkResidentialHousingMarketTrends19922024DKKCurrency/Dashboard1)
 
 <img width="1594" height="901" alt="Screenshot 2026-01-22 112528" src="https://github.com/user-attachments/assets/1589fbb8-c99b-4ad8-b6b0-4ed86aaa37fb" />
 
+## Excel Analysis & Quality Checks
+A statistical Excel dashboard was developed with eight charts displaying average values for all integer columns. Additional summary statistics, including median and mode, were calculated for all numeric fields to support data validation and trend analysis.
+The cleaned Excel dataset used for analysis and validation can be viewed [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/DK_Housing_C_C_Clean.xlsx).
+
 <img width="1650" height="956" alt="Screenshot 2026-01-22 112439" src="https://github.com/user-attachments/assets/424afb14-ec48-42a3-a167-b154b4443343" />
 
 <img width="1630" height="148" alt="Screenshot 2026-01-22 112411" src="https://github.com/user-attachments/assets/23d9a04f-57e4-438c-8b39-5a23847bc432" />
-
-<img width="674" height="484" alt="Screenshot 2025-12-19 120244" src="https://github.com/user-attachments/assets/468b37ea-e716-4bd7-8335-bd2bdd9a85a2" />
-
-The inventory quantities for each category across all regions are shown below, clearly indicating that office supplies have the highest quantities among the three categories.
-
-<img width="661" height="476" alt="Screenshot 2025-12-19 120309" src="https://github.com/user-attachments/assets/76236beb-c510-4d6d-9bf1-4afd5720cb1d" />
-
-The following graph shows profit by subcategory, highlighting tables as the least profitable subcategory, with a negative profit.
-
-<img width="636" height="331" alt="Screenshot 2025-12-19 120329" src="https://github.com/user-attachments/assets/8bf012da-c021-4e36-a95d-8c79678a9d7d" />
-
-The visualization displays product quantities by state, showing California as the top state by quantity.
-
-<img width="680" height="391" alt="Screenshot 2025-12-19 120356" src="https://github.com/user-attachments/assets/44071e95-2e8e-40ea-8c2f-5229c0470ece" />
 
 # Executive Summary
 This analysis breaks down shipping, sales, and profitability in a clear and easy-to-understand way. The Excel pivot charts compare shipping costs by shipping class and region, show how product quantities vary by region and category, highlight which subcategories generate the most profit, and display product quantities sold by state. These views make it easier to see where costs are higher, where demand is strongest, and which products perform best.
