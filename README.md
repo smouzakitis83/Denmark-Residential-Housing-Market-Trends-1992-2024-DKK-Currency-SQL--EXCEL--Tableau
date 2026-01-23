@@ -8,13 +8,13 @@ To guide the analysis, I used AI to generate five practical questions that a sta
 
 This specific data was provided by Kaggle and can be viewed [here](https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024).
 
-## Scope Of Analysis:
-* Analysis of how residential housing prices have changed over time
-* Comparison of purchase prices across different house types over time.
-* Examination of annual inflation rates alongside nominal interest rates.
-* Review of average percentage differences between offer and purchase prices by house age.
-* Comparison of average housing prices across different house age groups.
-* Overview of regional housing markets using overall average price metrics.
+## Scope Of Analysis: Stakeholder Questions
+* How have residential housing prices changed over time, and how do trends differ by region?
+* Which house types have experienced the highest price growth over time?
+* How do macroeconomic factors, such as nominal interest rates and inflation, relate to housing prices and sales trends in Denmark?
+* Are newer homes priced at a premium compared to older homes, and does this vary by region or house type?
+* How does the difference between offer price and final purchase price vary across regions, market conditions, and time periods?
+* What insights can be drawn from average housing prices and percentage differences between offer and purchase prices across house age groups?
 
  ## SQL Methodology
 
@@ -34,9 +34,9 @@ View the SQL scripts that document the full data preparation and calculation pro
 
 ## Tableau Visual Analysis
 
-This Tableau visualization combines line and bar charts to illustrate changes in residential housing prices, house types, annual inflation, nominal interest rates, house age averages, and the percentage change between offer and purchase over time. Interactive filters for house type and region allow users to dynamically explore trends and compare market behavior across different segments. View and explore this interactive Tableau visualization [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/DenmarkResidentialHousingMarketTrends19922024DKKCurrency/Dashboard1)
+This Tableau visualization combines line and bar charts to illustrate changes in residential housing prices, house types, annual inflation, nominal interest rates, house age averages, and the percentage change between offer and purchase over time. Interactive filters for house type and region allow users to dynamically explore trends and compare market behavior across different segments. View and explore this interactive Tableau visualization [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/DenmarkResidentialHousingMarketTrends19922024DKKCurrency/Dashboard1).
 
-<img width="1594" height="901" alt="Screenshot 2026-01-22 112528" src="https://github.com/user-attachments/assets/1589fbb8-c99b-4ad8-b6b0-4ed86aaa37fb" />
+<img width="1602" height="906" alt="Screenshot 2026-01-23 084014" src="https://github.com/user-attachments/assets/87221386-4ad9-49a2-85fa-8b3ac0b50403" />
 
 ## Excel Analysis & Quality Checks
 A statistical Excel dashboard was developed with eight charts displaying average values for all integer columns. Additional summary statistics, including median and mode, were calculated for all numeric fields to support data validation and trend analysis.
