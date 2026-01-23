@@ -40,7 +40,7 @@ This Tableau visualization combines line and bar charts to illustrate changes in
 
 ## Excel Analysis & Quality Checks
 A statistical Excel dashboard was developed with eight charts displaying average values for all integer columns. Additional summary statistics, including median and mode, were calculated for all numeric fields to support data validation and trend analysis.
-The cleaned Excel dataset used for analysis and validation can be viewed [here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/DK_Housing_C_C_Clean.xlsx).
+The Excel dataset was cleaned, validated, and prepared for analysis. The final cleaned file can be viewed here.[here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/DK_Housing_C_C_Clean.xlsx).
 
 <img width="1650" height="956" alt="Screenshot 2026-01-22 112439" src="https://github.com/user-attachments/assets/424afb14-ec48-42a3-a167-b154b4443343" />
 
