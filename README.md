@@ -1,5 +1,6 @@
 # Denmark-Residential-Housing-Market-Trends-1992-2024-DKK Currency-SQL--EXCEL--Tableau
-<img width="661" height="258" alt="Screenshot 2026-01-22 092641" src="https://github.com/user-attachments/assets/9da60307-a7df-4d53-81a3-1c1872b9bca9" />
+<img width="851" height="371" alt="Screenshot 2026-01-27 120507" src="https://github.com/user-attachments/assets/88ce273e-9353-4b5c-b7df-18736835dd31" />
+
 
 ## Table of Contents
 
