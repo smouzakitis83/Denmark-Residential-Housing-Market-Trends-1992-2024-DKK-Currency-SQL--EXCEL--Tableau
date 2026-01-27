@@ -4,11 +4,12 @@
 
 ## Table of Contents
 - [Overview](#overview)
+  
+- [Scope of Analysis (Stakeholder Questions)](#scope-of-analysis-stakeholder-questions)
+    
 - [Key Findings (Executive Summary)](#key-findings-executive-summary)
 
 - [SQL Methodology](#sql-methodology)
-
-- [Scope of Analysis (Stakeholder Questions)](#scope-of-analysis-stakeholder-questions)
 
 - [Tableau Visual Analysis](#tableau-visual-analysis)
 
@@ -23,6 +24,14 @@ To guide the analysis, I used AI to generate five practical questions that a sta
 
 This specific data was provided by Kaggle and can be viewed [here](https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024).
 
+## Scope of Analysis (Stakeholder Questions)
+* How have residential housing prices changed over time, and how do trends differ by region?
+* Which house types have experienced the highest price growth over time?
+* How do macroeconomic factors, such as nominal interest rates and inflation, relate to housing prices and sales trends in Denmark?
+* Are newer homes priced at a premium compared to older homes, and does this vary by region or house type?
+* How does the difference between offer price and final purchase price vary across regions, market conditions, and time periods?
+* What insights can be drawn from average housing prices and percentage differences between offer and purchase prices across house age groups?
+  
 ## Key Findings (Executive Summary)
 * Housing prices increased steadily from 1992–2024, with Zealand showing the strongest growth and Bornholm the weakest among regions.
 
@@ -32,14 +41,7 @@ This specific data was provided by Kaggle and can be viewed [here](https://www.k
 
 * Newer homes (post-1999) are priced at a premium across all regions, with farms in Bornholm averaging DKK 13.2M, highlighting strong valuation for modern housing stock.
 
-* Price negotiations are most pronounced for older and seasonal properties, particularly apartments in Bornholm (−6.2%), farms in Fyn and the Islands (−4.6%), and summer houses built between 1900–1919 (−9.33%
-## Scope of Analysis (Stakeholder Questions)
-* How have residential housing prices changed over time, and how do trends differ by region?
-* Which house types have experienced the highest price growth over time?
-* How do macroeconomic factors, such as nominal interest rates and inflation, relate to housing prices and sales trends in Denmark?
-* Are newer homes priced at a premium compared to older homes, and does this vary by region or house type?
-* How does the difference between offer price and final purchase price vary across regions, market conditions, and time periods?
-* What insights can be drawn from average housing prices and percentage differences between offer and purchase prices across house age groups?
+* Price negotiations are most pronounced for older and seasonal properties, particularly apartments in Bornholm (−6.2%), farms in Fyn and the Islands (−4.6%), and summer houses built between 1900–1919 (−9.33%)
 
  ## SQL Methodology
 
@@ -64,6 +66,7 @@ This Tableau visualization combines line and bar charts to illustrate changes in
 <img width="1602" height="906" alt="Screenshot 2026-01-23 084014" src="https://github.com/user-attachments/assets/87221386-4ad9-49a2-85fa-8b3ac0b50403" />
 
 ## Excel Analysis & Quality Checks
+
 A statistical Excel dashboard was developed with eight charts displaying average values for all integer columns. Additional summary statistics, including median and mode, were calculated for all numeric fields to support data validation and trend analysis.
 The Excel dataset was cleaned, validated, and prepared for analysis. The final cleaned file can be viewed here.[here](https://github.com/smouzakitis83/Denmark-Residential-Housing-Market-Trends-1992-2024-DKK-Currency-SQL--EXCEL--Tableau/blob/main/DK_Housing_C_C_Clean.xlsx).
 
