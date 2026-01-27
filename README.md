@@ -6,6 +6,7 @@
 - [Key Findings (Executive Summary)](#key-findings-executive-summary)
 
 - [SQL Methodology](#sql-methodology)
+- [Scope Of Analysis: Stakeholder Questions](scope-of-analysis-stakeholder-questions)
 
 
 
