@@ -7,7 +7,7 @@
 
 - [SQL Methodology](#sql-methodology)
 
-- [Scope of Analysis – Stakeholder Questions](#scope-of-analysis-stakeholder-questions)
+- [Scope of Analysis Stakeholder Questions](#scope-of-analysis-stakeholder-questions)
 
 - [Tableau Visual Analysis](#tableau-visual-analysis)
 
@@ -30,7 +30,7 @@ This specific data was provided by Kaggle and can be viewed [here](https://www.k
 * Newer homes (post-1999) are priced at a premium across all regions, with farms in Bornholm averaging DKK 13.2M, highlighting strong valuation for modern housing stock.
 
 * Price negotiations are most pronounced for older and seasonal properties, particularly apartments in Bornholm (−6.2%), farms in Fyn and the Islands (−4.6%), and summer houses built between 1900–1919 (−9.33%
-## Scope of Analysis - Stakeholder Questions
+## Scope of Analysis Stakeholder Questions
 * How have residential housing prices changed over time, and how do trends differ by region?
 * Which house types have experienced the highest price growth over time?
 * How do macroeconomic factors, such as nominal interest rates and inflation, relate to housing prices and sales trends in Denmark?
