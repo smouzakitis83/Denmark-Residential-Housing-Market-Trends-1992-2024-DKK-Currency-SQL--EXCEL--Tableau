@@ -25,6 +25,7 @@ To guide the analysis, I used AI to generate five practical questions that a sta
 This specific data was provided by Kaggle and can be viewed [here](https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024).
 
 ## Scope of Analysis (Stakeholder Questions)
+
 * How have residential housing prices changed over time, and how do trends differ by region?
 * Which house types have experienced the highest price growth over time?
 * How do macroeconomic factors, such as nominal interest rates and inflation, relate to housing prices and sales trends in Denmark?
@@ -33,15 +34,18 @@ This specific data was provided by Kaggle and can be viewed [here](https://www.k
 * What insights can be drawn from average housing prices and percentage differences between offer and purchase prices across house age groups?
   
 ## Key Findings (Executive Summary)
+
+Based on the analysis, housing prices in Denmark have generally risen with notable regional and property-type differences. Stakeholders could focus on newer homes and farms which show strong price growth and high valuations, while being cautious with older and seasonal properties where price negotiations are more pronounced. Monitoring macroeconomic trends, such as interest rates and inflation is key, as spikes like the 2022 inflation surge can impact pricing and negotiation dynamics. These insights can guide investment, pricing strategies, and portfolio planning across regions and property types.
+
 * Housing prices increased steadily from 1992–2024, with Zealand showing the strongest growth and Bornholm the weakest among regions.
 
 * Farms experienced the highest long-term price growth, followed by apartments, while summer houses showed the lowest growth.
 
-* Macroeconomic conditions supported housing growth for most of the period, with declining interest rates and inflation until a sharp inflation spike in 2022 (7.7%), driven by global energy shocks and post-pandemic pressures.
+* Housing grew steadily for years thanks to low interest rates, but in 2022, inflation jumped to 7.7% due to post-pandemic pressures, rising energy costs, and the Russia–Ukraine war.
 
 * Newer homes (post-1999) are priced at a premium across all regions, with farms in Bornholm averaging DKK 13.2M, highlighting strong valuation for modern housing stock.
 
-* Price negotiations are most pronounced for older and seasonal properties, particularly apartments in Bornholm (−6.2%), farms in Fyn and the Islands (−4.6%), and summer houses built between 1900–1919 (−9.33%)
+* Price negotiations tend to be largest for older and seasonal properties. This is especially true for apartments in Bornholm (−6.2%), farms in Fyn and the Islands (−4.6%), and summer houses built between 1900–1919 (−9.33%).
 
  ## SQL Methodology
 
