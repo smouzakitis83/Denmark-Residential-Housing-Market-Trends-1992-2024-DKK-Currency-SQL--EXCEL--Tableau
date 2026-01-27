@@ -7,7 +7,7 @@
 
 - [SQL Methodology](#sql-methodology)
 
-- [Scope of Analysis – Stakeholder Questions](#scope-of-analysis-stakeholder-questions)
+- [Scope of Analysis – Stakeholder Questions](#scope-of-analysis---stakeholder-questions)
 
 - [Tableau Visual Analysis](#tableau-visual-analysis)
 
