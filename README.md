@@ -11,6 +11,8 @@
 
 - [Tableau Visual Analysis](#tableau-visual-analysis)
 
+- [Excel Analysis & Quality Checks](#excel-analysis-&-quality-checks)
+
 
 
 
