@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-
+- [Overview](#overview)
 - [Key Findings (Executive Summary)](#key-findings-executive-summary)
 
 - [SQL Methodology](#sql-methodology)
@@ -16,7 +16,7 @@
 
 
 
-
+## Overview
 The Danish residential housing market has experienced significant changes over the past three decades, influenced by economic conditions, interest rates, and regional development. In this case study, I analyze housing transaction data from 1992 to 2024 to uncover long-term pricing trends and key factors that impact home values.
 
 To guide the analysis, I used AI to generate five practical questions that a stakeholder or decision-maker would realistically ask when evaluating the housing market. Using SQL and Excel for data preparation and Tableau for visualization, I translated these questions into clear, concise, and easy-to-understand visuals designed to make insights accessible to both technical and non-technical audiences.
