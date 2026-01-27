@@ -67,7 +67,7 @@ View the SQL scripts that document the full data preparation and calculation pro
 
 This Tableau visualization combines line and bar charts to illustrate changes in residential housing prices, house types, annual inflation, nominal interest rates, house age averages, and the percentage change between offer and purchase over time. Interactive filters for house type and region allow users to dynamically explore trends and compare market behavior across different segments. View and explore this interactive Tableau visualization [here](https://public.tableau.com/app/profile/stamatios.mouzakitis/viz/Denmark_Residential_Housing_Market_Trends/Dashboard1?publish=yes).
 
-<img width="1602" height="906" alt="Screenshot 2026-01-23 084014" src="https://github.com/user-attachments/assets/87221386-4ad9-49a2-85fa-8b3ac0b50403" />
+<img width="1595" height="899" alt="Screenshot 2026-01-27 124834" src="https://github.com/user-attachments/assets/395874ff-f055-4b42-8bc9-7a6831bfbdb0" />
 
 ## Excel Analysis & Quality Checks
 
